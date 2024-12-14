@@ -1,1 +1,1 @@
-# odin-recipes
+This will be a simple recipe website where I will give a few examples of my favorite recipes and in turn will allow me to practice my developing skills using the command line and HTML. 
